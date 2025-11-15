@@ -9,4 +9,8 @@ openpyxl
 streamlit-option-menu
 joblib
 scipy
+<<<<<<< HEAD
 Pillow
+=======
+Pillow
+>>>>>>> 7de4b0647307743bdf866029c26daca1e40b2419
