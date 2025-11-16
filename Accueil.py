@@ -436,7 +436,7 @@ def show_home_page():
     
     st.markdown("""
     <div class="card">
-        <h2>BIENVENUE SUR VOTRE PLATEFORME D'ANALYSE DE DONNEES ET DE MODELISATION PREDICTIVE DES VENTES PUBLICIAIRES</h2>
+        <h1>BIENVENUE SUR VOTRE PLATEFORME D'ANALYSE DE DONNEES ET DE MODELISATION PREDICTIVE DES VENTES PUBLICIAIRES</h1>
     </div>
     """, unsafe_allow_html=True)
     
